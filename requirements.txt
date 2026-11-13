@@ -1,0 +1,3 @@
+pdfplumber>=0.11
+openai>=1.40   # only needed to call Grok (xAI's API is OpenAI-compatible)
+pytest>=8.0
